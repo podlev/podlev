@@ -4,4 +4,6 @@
 
 💻 Python, Django, Django REST framework, SQL
 
-📱 Contact: [@podlev](https://t.me/podlev)
+📱 Telegram [@podlev](https://t.me/podlev)
+
+✉️ Email: podlev@gmail.com
